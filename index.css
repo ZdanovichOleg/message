@@ -1,0 +1,13 @@
+h1{
+   color: green;
+   text-decoration-line: underline;
+   font-size: 88px;
+   text-align: center;
+}
+
+img{
+    width: 25%;
+    margin: 0 auto;
+    display: block;
+ 
+}
